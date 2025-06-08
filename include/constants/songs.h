@@ -141,4 +141,6 @@ enum
 
     SONG_385 = 0x385,
     SONG_38A = 0x38A,
+    SONG_38B = 0x38B,
+    SONG_38C = 0x38C,
 };

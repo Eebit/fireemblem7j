@@ -34,6 +34,7 @@
 #include "gbafe/random.h"
 #include "gbafe/banim_ekrdragon.h"
 #include "gbafe/icon.h"
+#include "gbafe/cgtext.h"
 #include "gbafe/prepscreen.h"
 #include "gbafe/savemenu.h"
 #include "gbafe/tactician.h"

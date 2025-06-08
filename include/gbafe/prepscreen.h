@@ -525,9 +525,9 @@ void sub_8094888(struct ProcPrepUnit *proc);
 // sub_8099C60
 // GetChapterDivinationPortrait
 // sub_8099C98
-// sub_8099CB4
+bool sub_8099CB4(void);
 // sub_8099CDC
-// sub_8099CF0
+bool sub_8099CF0(void);
 // sub_8099D00
 // sub_8099D18
 // sub_8099DC0

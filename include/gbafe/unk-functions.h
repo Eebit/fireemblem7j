@@ -565,43 +565,9 @@ void StartBoxDialogueExt(int x, int y, int msgId, u16* unkA, int unkB, ProcPtr p
 // sub_8087B80
 // sub_8087B98
 // sub_8087C6C
-// SetCgTextFlags
-// SetCgTextFlag
-// ClearCgTextFlag
-// GetCgTextFlags
-// SetCgTextBlendControl
-// GetCgTextBlendControl
-// sub_8087EC8
-// sub_8087EE0
-// sub_8087EEC
-// sub_8087F60
-// sub_8088024
-// sub_80883C0
-// sub_80883C8
-// sub_8088404
-// sub_8088464
-// sub_80884A8
-// sub_80884E0
-// sub_8088520
-// sub_8088548
-// StartCgText
-// EndCgText
-bool sub_80886E0(void);
-// sub_80886FC
-// sub_8088718
-// sub_8088768
-// sub_80887B4
-// sub_8088834
-// sub_8088884
-// sub_8088A20
-// sub_8088C78
-// sub_8088D08
-// sub_808929C
-// sub_8089308
-// sub_8089310
-// sub_8089394
-// sub_80893BC
-// sub_80893E0
+
+/* cgtext.h */
+
 // sub_80893F4
 // sub_808940C
 // StartYesNoChoice

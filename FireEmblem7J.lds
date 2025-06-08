@@ -24,6 +24,7 @@ SECTIONS
 		. = 0x003C3C; gUiTmScratchC = .;
 
 		. = 0x01068C; src/prepscreen.o(ewram_overlay_0);
+		. = 0x0129A8; gUnk_020129A8 = .;
 		. = 0x012AA0; gPrepUnitTexts = .;
 	}
 
@@ -364,7 +365,7 @@ SECTIONS
 		asm/prep_itemsupply.o(.text);
 		asm/prep_itemlist.o(.text);
 		asm/prep_itemsell.o(.text);
-		asm/prep_fortune.o(.text);
+		src/prep_fortune.o(.text);
 		asm/prep_8099D18.o(.text);
 		asm/prep_uisupport.o(.text);
 		asm/prep.o(.text);
